@@ -1,0 +1,11 @@
+/Users/srx/paraproglab1/obj/Debug/netcoreapp2.2/paraproglab1.csprojAssemblyReference.cache
+/Users/srx/paraproglab1/obj/Debug/netcoreapp2.2/paraproglab1.csproj.CoreCompileInputs.cache
+/Users/srx/paraproglab1/obj/Debug/netcoreapp2.2/paraproglab1.AssemblyInfoInputs.cache
+/Users/srx/paraproglab1/obj/Debug/netcoreapp2.2/paraproglab1.AssemblyInfo.cs
+/Users/srx/paraproglab1/bin/Debug/netcoreapp2.2/paraproglab1.deps.json
+/Users/srx/paraproglab1/bin/Debug/netcoreapp2.2/paraproglab1.runtimeconfig.json
+/Users/srx/paraproglab1/bin/Debug/netcoreapp2.2/paraproglab1.runtimeconfig.dev.json
+/Users/srx/paraproglab1/bin/Debug/netcoreapp2.2/paraproglab1.dll
+/Users/srx/paraproglab1/bin/Debug/netcoreapp2.2/paraproglab1.pdb
+/Users/srx/paraproglab1/obj/Debug/netcoreapp2.2/paraproglab1.dll
+/Users/srx/paraproglab1/obj/Debug/netcoreapp2.2/paraproglab1.pdb
